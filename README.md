@@ -43,7 +43,7 @@ docker logs analog
 
 save data node and fill form : https://l5d87lam6fy.typeform.com/to/kwlADm6U
 
-.
+faucet and add network : https://docs.analog.one/documentation/resources/testnet-faucet
 .
 
 my chanel :
