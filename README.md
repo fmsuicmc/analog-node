@@ -31,7 +31,7 @@ docker pull analoglabs/timechain
 docker run -d -p 9944:9944 -p 30403:30303 -v $(pwd)/.analog:/.analog --name analog analoglabs/timechain --base-path /.analog --rpc-external --rpc-methods=Unsafe --unsafe-rpc-external --name YOUR_NAME_NODE
 
 ```
-
+YOUR_NAME_Node = Change name node
 
 ```
 docker logs analog
